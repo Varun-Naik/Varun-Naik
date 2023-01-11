@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### Welcome to Varun's Github profile
 
-- 🔭 I’m currently studying MEng, Electrical and Computer Engineerng at uOttawa
+- 🔭 I’m currently studying MEng, Electrical and Computer Engineering at uOttawa
 - 🌱 I’m currently learning Java programming 
 - 👯 I’m looking to collaborate on Machine Learning using Python
 - 📫 How to reach me: Linked in https://www.linkedin.com/in/varun-n-naik/
