@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying MEng, Electrical and Computer Engineering at uOttawa
 - 🌱 I’m currently learning Java programming 
 - 👯 I’m looking to collaborate on Machine Learning using Python
-- 📫 How to reach me: Linked in https://www.linkedin.com/in/varun-n-naik/
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/varun-n-naik/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I read fiction
 
