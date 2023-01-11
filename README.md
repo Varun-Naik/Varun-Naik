@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### Welcome to Varun's Github profile
+### Welcome to my Github profile
 
 - 🔭 I’m currently studying MEng, Electrical and Computer Engineering at uOttawa
 - 🌱 I’m currently learning Java programming 
