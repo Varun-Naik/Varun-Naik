@@ -2,7 +2,7 @@
 ### Welcome to my Github profile
 
 - 🔭 I recently finished my MEng, Electrical and Computer Engineering at uOttawa
-- 🌱 I’m currently learning Deep Learning 
+- 🌱 I’m currently learning Data Visualization 
 - 👯 I’m looking to collaborate on Machine Learning using Python
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/varun-n-naik/
 - 😄 Pronouns: he/him
